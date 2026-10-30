@@ -1,0 +1,16 @@
+I have signed for a great many deliveries over the years, and the question at goods-in was nearly always the same: is the paperwork there? The AOG Technics case is a useful reminder of how little that question proves on its own.
+
+In 2023, an airline contacted Safran to check the authenticity of an engine part it had received from AOG Technics, a UK-based aircraft parts trader. Safran identified the certificate as a fake and alerted the authorities.
+
+According to the Serious Fraud Office, AOG Technics sold more than 60,000 aircraft engine parts between January 2019 and July 2023, mostly for the CFM56 engine, accompanied by forged Authorised Release Certificates. Its director altered genuine certificates on his home computer, wrote false memos suggesting the parts had been bought from manufacturers such as Safran, and invented sales and quality managers who did not exist. The SFO estimates losses of more than £39.3m for airlines and manufacturers; in February 2026, after pleading guilty to fraudulent trading, he was sentenced to four years and eight months.
+
+For anyone who runs a goods-in process, the way the fraud ended deserves attention. Every part arrived with paperwork, and a check that only confirms a certificate is present would have accepted it; however, one buyer asked the manufacturer whether the part was authentic, and the operation was halted.
+
+Three receiving checks follow from that:
+• Verify at source, with the manufacturer or the issuer named on the paperwork, confirming the reference, part number and serial number
+• Test the trail behind the certificate, since a memo claiming a purchase from a manufacturer should be something that manufacturer can confirm
+• Approve suppliers on evidence, and ask each one where the part came from
+
+The video walks through the case using only the SFO's published account: https://www.gov.uk/government/news/sfo-secures-4-year-prison-sentence-for-aircraft-parts-fraud
+
+#SupplyChain #Aviation #Compliance #SupplierAssurance
