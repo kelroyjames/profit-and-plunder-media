@@ -32,7 +32,7 @@ SCENES = [
  ("First, ask for evidence, not a policy. Ask what screening is done when a customer joins, and what gets reported.",
   {"type": "list", "head": "Check 1: evidence", "items": ["What screening at onboarding?", "What gets reported?", "How often?"]}),
  ("Second, test any control that relies on one signal. A block based only on location can be bypassed.",
-  {"type": "big", "text": "What else confirms who and where\na customer is?"}),
+  {"type": "big", "text": "What else confirms who\nand where a customer is?"}),
  ("Third, look at where the revenue comes from. When the most valuable customers are the ones a control would remove, that control needs independent review.",
   {"type": "big", "text": "Who would a control remove?\nWho checks it?"}),
  ("Every week, Chain of Custody breaks down one supply chain control like this. It's free, and the link is in the description.",
